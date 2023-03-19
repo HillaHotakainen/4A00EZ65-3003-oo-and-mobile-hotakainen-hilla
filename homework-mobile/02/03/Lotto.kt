@@ -42,7 +42,6 @@ fun main(args: Array<String>) {
                     println("Highscore, you got $temp correct it took $realYears years")
                 }
             }
-            if(counter == 10.0) matches = 7
             if(matches == 7) {
             win = true
             }   //enable this if you want to see every set of numbers
